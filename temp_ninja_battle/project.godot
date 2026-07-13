@@ -1,0 +1,33 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+config/name="Ninja Battle Arena"
+config/description="A ninja battle game inspired by Naruto Senki!"
+run/main_scene="res://scenes/BattleScene.tscn"
+config/icon="res://sprites/ninjas/naruto.png"
+
+[display]
+window/size/viewport_width=800
+window/size/viewport_height=600
+window/stretch/mode="2d"
+window/stretch/aspect="keep"
+
+[input]
+move_left=A,Left
+move_right=D,Right
+move_up=W,Up
+move_down=S,Down
+attack=J
+skill1=K
+skill2=L
+ultimate=U
+jump=Space
+dash=Shift
