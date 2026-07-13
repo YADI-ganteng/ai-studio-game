@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Epic RPG Forge",
+  "description": "Create realistic RPGs using unzipped assets. Features asset generation and an admin mode (123456) for editing items and gameplay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
