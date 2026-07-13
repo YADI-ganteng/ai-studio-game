@@ -1,0 +1,16 @@
+{
+  "date": "2026-07-13T05:43:21.270739",
+  "total_files": 120,
+  "categories": {
+    "html": 1,
+    "css": 1,
+    "tsx": 9,
+    "ts": 3,
+    "json": 4,
+    "png": 30,
+    "other": 72
+  },
+  "is_web_game": true,
+  "is_react": true,
+  "is_python": false
+}
